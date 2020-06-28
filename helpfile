@@ -1,0 +1,40 @@
+L
+Lookout View:
+Shows a view of the current sea. Traders are marked as a 'T'. 
+Warships are marked as a 'W'.
+#
+S
+Sail:
+Moves Redbeard around. 
+Input a direction: N, NE, E, SE, S, SW, W, or NW.
+A view is then shown of the current sea with Redbeard's new position.
+#
+F
+Fire:
+No help yet, sorry. Order is still to be implemented.
+#
+B
+Broadside:
+No help yet, sorry. Order is still to be implemented.
+#
+R
+Report:
+No help yet, sorry. Order is still to be implemented.
+#
+D
+Repair Damage:
+No help yet, sorry. Order is still to be implemented.
+#
+A
+All Seas View:
+Shows a view of all seven seas.
+#
+X
+Exit:
+It exits the program.
+#
+H
+Help:
+You're kidding, right?
+#
+
